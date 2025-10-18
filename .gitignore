@@ -1,0 +1,15 @@
+# Directorios de dependencias y compilación
+/node_modules
+/dist
+/build
+
+# Archivos de configuración y entorno
+.env
+.env.local
+config.json.local
+*.log
+
+# Archivos temporales o del sistema operativo
+.DS_Store # Para usuarios de macOS
+Thumbs.db # Para usuarios de Windows
+*~ # Archivos de copia de seguridad de algunos editores
